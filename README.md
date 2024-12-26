@@ -34,3 +34,5 @@ minimizing risk?
 • Expand Demographic Analysis: As future steps, consider collecting or purchasing more comprehensive demographic data for other counties and states to ensure no viable location is overlooked due to data gaps.
 
 • Monitor Competition: Although RiteAid and Walgreens dominate in many locations, focus on regions where these brands have a weaker presence to minimize competition while capitalizing on unmet demand.
+
+Team : Chhaya, Avanti, Jayesh
