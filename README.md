@@ -25,18 +25,12 @@ The purpose of this report is to determine the best location for opening a new s
 2. Which county and state will provide the optimal location to maximize profit while
 minimizing risk?
 3. Which street should the store be opened on?
-# Discussion
-Implications of the Findings: The analysis provides key insights for optimal store placement:
-Targeting the Right Population:
-Areas like Renton (98055), Seattle (98104), and Auburn (98002) have high percentages of older adults, a key demographic for drug stores. Locating the store in these areas ensures steady demand from frequent healthcare visitors.
-Leveraging Hospital Foot Traffic:
-Locations near high-traffic hospitals, such as 4033 Talbot Rd S in Renton and Main Hospital West Clinic in Seattle, attract consistent footfall from patients and healthcare workers, boosting store visibility.
-Suburban Growth Potential:
-Emerging areas like Issaquah and Maple Valley show moderate foot traffic and a growing aging population, offering long-term growth potential while avoiding overcrowded markets.
-These insights help align the store's placement with demographic needs and high footfall areas, maximizing profit and reducing risk.
-Limitations: Only locations with available population data were considered for this analysis. There may be other counties or states that could have been a better fit, but due to the absence of population data, they were not included in the evaluation. This limits the comprehensiveness of the findings and may overlook potentially more suitable locations.
+
 # Conclusion and Recommendations Actionable Recommendations:
 • Target Brand Expansion: Focus on partnering with brands like Safeway Pharmacy, which are mid-sized and looking to expand. These brands show strong performance but are not yet oversaturated in the market.
+
 • Prioritize King County, Washington: Based on the analysis, King County has a high proportion of the adult population and significant hospital footfall, making it an optimal location for a new store.
+
 • Expand Demographic Analysis: As future steps, consider collecting or purchasing more comprehensive demographic data for other counties and states to ensure no viable location is overlooked due to data gaps.
+
 • Monitor Competition: Although RiteAid and Walgreens dominate in many locations, focus on regions where these brands have a weaker presence to minimize competition while capitalizing on unmet demand.
